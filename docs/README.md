@@ -4,4 +4,4 @@ EasyRedis is an Object Oriented wrapper to [redis](https://github.com/andymccurd
 
 # Dependencies
 
-- [redis](https://github.com/andymccurdy/redis-py)
+- [redis](https://github.com/andymccurdy/redis-py) Python library
